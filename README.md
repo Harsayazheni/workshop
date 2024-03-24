@@ -365,7 +365,9 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT
+![WhatsApp Image 2024-03-24 at 20 22 17_f39be37b](https://github.com/Harsayazheni/workshop/assets/118708467/049feb03-2f8b-4532-9e09-03fccf38a989)
 
+![WhatsApp Image 2024-03-24 at 20 22 17_ab596fe4](https://github.com/Harsayazheni/workshop/assets/118708467/de3a0728-1060-45aa-af50-947f1583003b)
 
 
 
